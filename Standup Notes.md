@@ -33,7 +33,7 @@ Today we:
 - Created a rough draft of the art style
 - Discussed features and possible directions for gameplay
 
-# STANDUP NOTES — Day 2 (Feb 5th, Wednesday)
+# STANDUP NOTES — Day 2 (Feb 5th, Thursday)
 
 ## Attendance
 - Afton — PRESENT  
@@ -59,7 +59,7 @@ Angel:
 
 Marcus:
 - What I did: Chicken butt
-- What I’m doing: helping out our leader
+- What I’m doing: Getting ideas of sprites, music, and overlays
 - Blocked: time
 
 ## Summary
