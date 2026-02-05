@@ -4,7 +4,8 @@
 - Afton — PRESENT  
 - Chris — PRESENT  
 - Angel — PRESENT  
-- Marcus — PRESENT  
+- Marcus — PRESENT
+  
 ## Stand up:
 Afton:
 - What I did: Created repo
@@ -17,7 +18,7 @@ Christopher:
 - Blocked
 
 Angel:
-- What I did: Created repo
+- What I did: Help come up with ideas
 - What I’m doing:
 - Blocked:
 
@@ -40,3 +41,29 @@ Today we:
 - Angel — PRESENT  
 - Marcus — PRESENT
 
+## Stand up:
+Afton:
+- What I did: Make sure everyone has access to the repo
+- What I’m doing: Helping out leader
+- Blocked: time
+
+Christopher:
+- What I did: Continuing on game
+- What I’m doing: Continuing on game
+- Blocked: time
+
+Angel:
+- What I did: Edit stand up notes
+- What I’m doing: edit repo
+- Blocked: time
+
+Marcus:
+- What I did: Chicken butt
+- What I’m doing: helping out our leader
+- Blocked: time
+
+## Summary
+Today we:
+- Made everyone has access to the repo
+- Started on the code
+- Discussed any more features we can add
