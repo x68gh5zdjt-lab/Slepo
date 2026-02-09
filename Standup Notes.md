@@ -113,18 +113,24 @@ Today we:
 - Marcus — PRESENT
  
 ## Stand up:
+
+Christopher:
+- What I did: Implement bugs and styled code file
+- What I’m doing: 
+- Blocked: None
+
 Afton:
-- What I did: 
+- What I did: Help implement bugs and testing
 - What I’m doing: 
 - Blocked: None
 
 Angel:
-- What I did: Created Bug document for submission
+- What I did: Created Bug document for submission and finalized README
 - What I’m doing:
 - Blocked: None
  
 Marcus:
-- What I did: Edited Standup Notes today
+- What I did: Edited Standup Notes, implement bugs, and complete codestyle file
 - What I’m doing: 
 - Blocked: None
  
