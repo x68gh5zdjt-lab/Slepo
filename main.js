@@ -130,6 +130,7 @@ document.addEventListener("keypress", function (event) {
                 pauseOverlay.style = "display: none;";
             } else {
                 minecraftAudio.play();
+                pauseOverlay.style = "display: none;";
             }
             playing = !playing
         }
