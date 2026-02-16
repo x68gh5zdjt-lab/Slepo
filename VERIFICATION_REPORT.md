@@ -52,8 +52,10 @@ For each bug reported in Week 6, document whether the fix worked.
 
 ## Overall Assessment
 **Game Status After Fixes:** We have our MVP and fixed the bugs found by QA Team. 
+ 
 **Recommendation for Dev Team:** Fix multiple people appearing if needed
 
 ## Sign-Off
 **QA Team:** Christopher, Afton, Angel, Marcus P.
+
 **Verification completed:** 2/16/26
