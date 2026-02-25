@@ -1,0 +1,1 @@
+67 chicken stars
