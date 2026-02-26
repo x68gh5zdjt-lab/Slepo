@@ -1,4 +1,3 @@
-67 chicken stars
 # SDLC Capstone — Sprint 1 Process Analysis  
 
 **Course:** Software Quality Assurance  
@@ -20,12 +19,6 @@ We did not select Agile because we had a clear and concrete plan for the game by
 
 ## Section 2 — Phase Analysis  
 
-> Walk through every phase of your chosen model. For each phase, address two things:  
-> 1. What element of Sprint 1 corresponds to this phase (even loosely)?  
-> 2. What would this phase have looked like under strict model adherence?  
-
----
-
 ### Phase: Requirements Analysis + Acceptance Testing  
 
 **What Sprint 1 produced:**  
@@ -39,7 +32,7 @@ After defining the requirements, we would have created acceptance tests to deter
 ### Phase: System Design + System Testing  
 
 **What Sprint 1 produced:**  
-We discussed concepts for the UI and how the game would interact with the user. Since the game is simple, the design was also simple. We included overlays for the start and end of the game, a pause menu, and the main gameplay screen.
+There is testing on the application itself. Testing how much of a load it can handle and how it would run on a different application. The Sspecifiedics on creating the structure of the project, being the overlays and how both text fonts and sizes are standardized for the game. 
 
 **What strict adherence would have looked like:**  
 We would have fully specified the project structure, including overlays, standardized fonts, font sizes, layout consistency, and documented system-level test cases before implementation.
@@ -52,10 +45,7 @@ We would have fully specified the project structure, including overlays, standar
 We decided how each feature of the code would function together. We defined how the player would lose and how they would gain more aura. After this discussion, coding began.
 
 **What strict adherence would have looked like:**  
-The team would first write integration tests identifying potential failures when connecting features. Then, we would formally design system interactions, including:
-- What triggers player loss?
-- How does the player gain aura?
-- What events cause the loss condition?
+First, the team writes tests on what could go wrong when you connect the different features of the game together. Then they start designing how the game would run. Things like what would trigger the player to lose? How can the player gain more aura? How is the player going to cause the loss game trigger? We also thought about how interactions with users would interact with overlays and make sure they don’t overlap when not intended to so those were things that would need to be considered.
 
 ---
 
@@ -65,7 +55,7 @@ The team would first write integration tests identifying potential failures when
 After writing the code, we tested each feature to ensure it worked correctly. Since we finished early, we added another feature allowing students and the teacher to move sporadically.
 
 **What strict adherence would have looked like:**  
-Unit tests would be written before or alongside development to validate each component. Each module would be specified in greater detail to clearly define responsibilities and expected behavior before coding.
+Tests are written to see what can go wrong within each component. Tests are also written on how we can check that each component/ feature is working. Each component is looked into to add more detail, so we can specify what they each do and how they work. Also, to adhere with the model, we wouldn’t have added students and teachers to move sporadically instead of moving left or right only since requirements are set at the start.
 
 ---
 
@@ -75,7 +65,7 @@ Unit tests would be written before or alongside development to validate each com
 Coding occurred throughout multiple phases rather than strictly after design completion. At the end of the sprint, we intentionally added bugs. We tested and submitted the sprint after verifying the bugs caused errors as intended.
 
 **What strict adherence would have looked like:**  
-Coding would begin only after completing requirements, architecture, and module design phases. Implementation would strictly follow the documented plans from earlier phases.
+Coding is started begins here and finished after making sure that all of the phases are finished. The requirements, architecture, and module design for the game are pulled from the previous games.
 
 ---
 
@@ -116,8 +106,7 @@ QA operated continuously throughout development. Team members rotated roles freq
 In the V-Model, testing activities correspond to each development phase. We did have someone performing QA at all times, which aligns somewhat with the model, but we did not formally separate testing phases.
 
 **What QA would have looked like under strict adherence:**  
-Under strict V-Model adherence, QA would have been formally structured. Each development phase would have had predefined test plans, documented test cases, and clearly assigned QA roles. Testing would have been planned before coding rather than occurring informally throughout development.
-
+If QA operated under strict adherence, A lot of testing would have been done BEFORE the majority of the code was written, yet we were jumping around doing qa, i think that is because we had separate roles daily.
 ---
 
 ## Section 5 — Team Retrospective on Process  
